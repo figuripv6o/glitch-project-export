@@ -1,0 +1,5 @@
+Buzzomatic-Export/
+│
+├── PUBLIC.md         # Clean doc for GitHub visitors
+├── PRIVATE.md        # Internal FDF notes, ops, and scripts
+└── README.md         # Combined entrypoint (split view)
