@@ -1,0 +1,20 @@
+Buzzomatic-Export/
+│
+├── .github/
+│   └── workflows/
+│       └── buzzomatic-export.yml   # CI/CD workflow
+│
+├── scripts/
+│   └── buzzpush.sh                 # One-shot deploy script
+│
+├── src/
+│   └── index.js                    # Starter logic
+│
+├── assets/
+│   ├── banner.png                  # Buzzified banner (placeholder)
+│   └── logo.png                    # Logo (placeholder)
+│
+├── .gitignore
+├── LICENSE
+├── package.json
+└── README.md
