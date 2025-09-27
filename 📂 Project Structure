@@ -1,0 +1,12 @@
+# Clone your remix
+git clone https://github.com/figuripv6o/Buzzomatic-Export.git
+cd Buzzomatic-Export
+
+# Install dependencies
+npm install
+
+# Run starter app
+npm start
+
+# Deploy in one shot
+./scripts/buzzpush.sh
