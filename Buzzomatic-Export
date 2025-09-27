@@ -1,0 +1,20 @@
+BuzzFlow-E2E/
+│
+├── .github/
+│   └── workflows/
+│       └── buzzflow-e2e.yml     # GitHub Actions workflow (CI/CD + E2E)
+│
+├── scripts/
+│   └── buzzpush.sh              # One-shot deploy script
+│
+├── src/
+│   └── index.js                 # Starter app logic
+│
+├── assets/
+│   ├── banner.png               # Buzzified drip banner
+│   └── logo.png                 # Project logo
+│
+├── .gitignore
+├── LICENSE
+├── package.json
+└── README.md
